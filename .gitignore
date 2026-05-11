@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset folders (exclude large data files)
+archive/TrainData/
+archive/ValidData/
+archive/TestData/
+archive/check input/
+archive/check output/
+archive/temp_folder/
+
+# Model files (optional - uncomment if you want to exclude models)
+# archive/*.keras
+# archive/*.h5
+
+# Large files and archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
