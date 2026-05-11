@@ -4,7 +4,7 @@ A deep learning-based landslide detection system using satellite imagery and mac
 
 ## 📊 Dataset
 
-**Source:** [Landslide4Sense Dataset](https://www.kaggle.com/datasets/ritesh2000/landslide4sense) from Kaggle
+**Source:** [Landslide4Sense Dataset]([https://www.kaggle.com/datasets/ritesh2000/landslide4sense](https://www.kaggle.com/datasets/tekbahadurkshetri/landslide4sense)) from Kaggle
 
 The Landslide4Sense dataset contains:
 - **Training Data:** 7,598 samples with multi-spectral satellite imagery
